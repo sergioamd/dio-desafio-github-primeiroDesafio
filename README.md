@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiroDesafio
-Dddesafio de projeto sobre git/github
+Desafio de projeto sobre git/github
